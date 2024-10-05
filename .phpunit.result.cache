@@ -1,0 +1,1 @@
+C:37:"PHPUnit\Runner\DefaultTestResultCache":272:{a:2:{s:7:"defects";a:2:{s:38:"TestApplication::testItIsInstanceOfApp";i:4;s:48:"TestApplication::testItCanGetAppDatasetFromClass";i:4;}s:5:"times";a:2:{s:38:"TestApplication::testItIsInstanceOfApp";d:0.005;s:48:"TestApplication::testItCanGetAppDatasetFromClass";d:0.032;}}}
